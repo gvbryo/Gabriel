@@ -1,0 +1,32 @@
+* {
+  background-color: antiquewhite;
+  text-align: center;
+  padding:0;
+  margin: 0;
+
+}
+
+
+.exemplo {
+  font-size: 400%;
+  color: blueviolet;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+#Exemplo {
+
+  font-size: 200%;
+  color: cadetblue;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style:oblique
+}
+
+.Artista {
+  text-decoration: none;
+  color: blue;
+}
+
+.Artista:hover {
+  text-decoration: underline;
+  color: midnightblue;
+}
